@@ -1,6 +1,12 @@
-$('p').on("click", function() {
-    console.log("clicked")
-  })
+function getIt(){
+  $('p').on("click", function() {
+    console.log("Hey")
+  })  
+}
+
+
+  
+  
 
 $(document).ready(function(){
 
