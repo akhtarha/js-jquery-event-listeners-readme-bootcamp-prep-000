@@ -1,5 +1,5 @@
 function getIt (){
-  $("document").on("click", function() {
+  $("p").on("click", function() {
     console.log("clicked")
     
   })
