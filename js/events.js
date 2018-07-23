@@ -1,5 +1,8 @@
 function getIt (){
-  $
+  $("form").on("submit", function() {
+    
+    
+  })
 }
 
 $(document).ready(function(){
