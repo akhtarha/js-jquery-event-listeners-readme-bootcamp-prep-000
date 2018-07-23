@@ -1,5 +1,5 @@
 function getIt (){
-  $("document").on("submit", function() {
+  $("document").on("click", function() {
     
     
   })
