@@ -1,6 +1,6 @@
 function getIt (){
   $("document").on("click", function() {
-    
+    console.log("clicked")
     
   })
 }
