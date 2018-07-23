@@ -15,7 +15,12 @@ function pressIt(){
     }
   })
 }
-  
+
+function submitIt(){
+  $().on("submit". function(){
+    
+  })
+}
 
 $(document).ready(function(){
 
