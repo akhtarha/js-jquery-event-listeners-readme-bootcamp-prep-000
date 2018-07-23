@@ -1,9 +1,6 @@
-function getIt (){
-  $('p').on("click", function() {
+$('p').on("click", function() {
     console.log("clicked")
-    
   })
-}
 
 $(document).ready(function(){
 
